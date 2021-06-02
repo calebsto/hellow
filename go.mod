@@ -1,3 +1,3 @@
-module github.com/GoogleCloudPlatform/cloud-run-samples/helloworld-shell
+module github.com/calebsto/hellow
 
 go 1.14
